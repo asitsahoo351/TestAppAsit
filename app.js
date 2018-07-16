@@ -13,6 +13,9 @@ app.getWeather(function(){
   })
 })
 
+
+#we should remove this fucking section
+
 // app.weather.list[0].dt
 // app.weather.list[0].dt_txt
 
